@@ -1,1 +1,1 @@
-# Hackathon-repo
+# UGA-Workshop-Tutorial
